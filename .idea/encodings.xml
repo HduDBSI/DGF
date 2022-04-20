@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/filter/algorithm/GlobalSimilarity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/filter/algorithm/MixedSimilarity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/filter/algorithm/NoiseFiltering.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/filter/algorithm/PartSimilarity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/filter/main/CreateNoise.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/filter/main/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/filter/model/FreMatrix.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/filter/model/Trace.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/filter/tool/JDOM.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/filter/tool/Tool.java" charset="GBK" />
+  </component>
+</project>
